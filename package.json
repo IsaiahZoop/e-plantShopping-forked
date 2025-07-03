@@ -1,6 +1,7 @@
 {
   "name": "shoppingcart",
   "private": true,
+  "homepage": "https://IsaiahZoop.github.io/e-plantShopping-forked",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
